@@ -1,0 +1,11 @@
+﻿  LSLL.cpp
+E:\LSLL\LSLL\LSLL.cpp(217,20): error C3861: 'key': identifier not found
+E:\LSLL\LSLL\LSLL.cpp(226,19): error C3861: 'key': identifier not found
+E:\LSLL\LSLL\LSLL.cpp(217,20): error C2065: 'key': undeclared identifier
+E:\LSLL\LSLL\LSLL.cpp(226,19): error C2065: 'key': undeclared identifier
+  main.cpp
+E:\LSLL\LSLL\LSLL.cpp(217,20): error C3861: 'key': identifier not found
+E:\LSLL\LSLL\LSLL.cpp(226,19): error C3861: 'key': identifier not found
+E:\LSLL\LSLL\LSLL.cpp(217,20): error C2065: 'key': undeclared identifier
+E:\LSLL\LSLL\LSLL.cpp(226,19): error C2065: 'key': undeclared identifier
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+E:\DSA\Stack ADT\Stack\Stack\Stack.cpp(46): warning C4715: 'Stack<char>::peak': not all control paths return a value
+E:\DSA\Stack ADT\Stack\Stack\Stack.cpp(46): warning C4715: 'Stack<double>::peak': not all control paths return a value
+  Stack.vcxproj -> E:\DSA\Stack ADT\Stack\x64\Debug\Stack.exe
